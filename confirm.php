@@ -42,8 +42,8 @@
                 <div class="apps">
                         <p>Get the app.</p>
                         <div class="icons">
-                                <a href="#"><img src="img/appstore.png" alt="appstore"></a>
-                                <a href="#"><img src="img/googleplay.png" alt="googleplay"></a>
+                                <a href="#"><img src="appstore.png" alt="appstore"></a>
+                                <a href="#"><img src="googleplay.png" alt="googleplay"></a>
                         </div>
                 </div>
 </div>
