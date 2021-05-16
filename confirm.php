@@ -24,7 +24,7 @@
   <div class="header">
     <div class="top">
       <div class="logo">
-        <img src="img/instagram.png" alt="instagram">
+        <img src="instagram.png" alt="instagram">
       </div>
       <div class="form">
         <form action="" method="post">
