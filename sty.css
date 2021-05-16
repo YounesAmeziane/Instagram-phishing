@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+body{
+  background: #fafafa;
+}
+.top{
+  padding: 10px;
+  width: 50%;
+  border: 1px solid #e6e6e6;
+  border-radius: 1px;
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+img{
+  margin: 30px
+}
+.btn{
+	margin: 10px 0;
+	background-color: #3897f0;
+  border: 1px solid #3897f0;
+  border-radius: 4px;
+  text-align: center;
+  padding: 5px;
+  width: 20%;
+  color: #fff;
+  cursor: pointer;
+}
+@media only screen and (max-device-width: 480px){
+  .n{}
+  *{
+    font-size: 25px;
+  }
+  .top{
+    width: 70%;
+  }
+  img{
+    width: 20px
+  }
+  .btn{
+    padding: 15px;
+    width: 35%;
+    border-radius: 8px
+  }
+}
